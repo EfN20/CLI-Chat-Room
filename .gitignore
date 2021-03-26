@@ -1,0 +1,11 @@
+venv
+server_chat.txt
+serverAndClient.txt
+client_chat.txt
+main.py
+/.idea/.gitignore
+/.idea/Lab7.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
